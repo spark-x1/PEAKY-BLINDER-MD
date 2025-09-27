@@ -1,7 +1,5 @@
-# PEAKY-BLINDER-MD
-A Multi-device Whatsapp bot made in Kenya 🇰🇪 
+<a><img src='https://i.imgur.com/LyHic3i.gif'/>
 
-<a><img src='https://files.catbox.moe/dat1by.jpg'/></a>
 <p align="center">
   <p align="center">
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Bungee+Shade&size=25&pause=1000&background=FF000000&width=435&lines=THIS+IS+PEAKY-BLINDER-MD+V1%20❤️+; PEAKY-BLINDER-MD-+V1%20☠️;CREATED+BY+SANG LEE%20🤓" alt="Typing SVG" /></a>
@@ -16,8 +14,10 @@ A Multi-device Whatsapp bot made in Kenya 🇰🇪
 PEAKY-BLINDER-MD BY SANG LEE 🔥
 ```
 
- <a><img src='https://i.imgur.com/LyHic3i.gif'/> 
- 
+ <a><img src='https://i.imgur.com/LyHic3i.gif'/>
+
+
+
 ---
 
 ### 🌟 About PEAKY-BLINDER-MD 
