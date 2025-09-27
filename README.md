@@ -16,10 +16,8 @@ A Multi-device Whatsapp bot made in Kenya 🇰🇪
 PEAKY-BLINDER-MD BY SANG LEE 🔥
 ```
 
- <a><img src='https://i.imgur.com/LyHic3i.gif'/>
-
-<a><img src='https://files.catbox.moe/2prjby.jpg'/></a>
-
+ <a><img src='https://i.imgur.com/LyHic3i.gif'/> 
+ 
 ---
 
 ### 🌟 About PEAKY-BLINDER-MD 
