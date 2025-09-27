@@ -12,7 +12,7 @@
   
 <a><img src='https://i.imgur.com/LyHic3i.gif'/>
 
-> **`Updated To` The Version 3.5.0**
+> **`` Version 1.0.0**
 <a><img src='https://i.imgur.com/LyHic3i.gif'/>
 
 ```
