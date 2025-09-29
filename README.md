@@ -1,11 +1,12 @@
-<p align="center">
-  <img src="https://svg-banners.vercel.app/api?type=glitch&text1=⚡+Spark+XMD+Under+Development+⚡&width=800&height=200" />
-</p>
+<div align="center">
 
-<p align="center">
-  <img src="https://svg-banners.vercel.app/api?type=rainbow&text1=✨+Stay+Tuned+For+Updates+✨&width=800&height=200" />
-</p>
+<!-- Typing animation -->
+<img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=30&pause=1000&color=FF00FF&center=true&vCenter=true&width=700&lines=⚡+Spark+XMD+Under+Development+⚡" />
 
-<p align="center">
-  <img src="https://svg-banners.vercel.app/api?type=shiny&text1=🚀+Launching+Soon...+🚀&width=800&height=200" />
-</p>
+<!-- Rainbow banner -->
+<img src="https://svg-banners.vercel.app/api?type=rainbow&text1=✨+Stay+Tuned+For+Updates+✨&width=800&height=200" />
+
+<!-- Shiny banner -->
+<img src="https://svg-banners.vercel.app/api?type=shiny&text1=🚀+Launching+Soon...+🚀&width=800&height=200" />
+
+</div>
