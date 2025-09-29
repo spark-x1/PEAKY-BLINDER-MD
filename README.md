@@ -1,3 +1,11 @@
-![Spark XMD](https://img.shields.io/badge/⚡_Spark_XMD_Under_Development-ff00ff?style=for-the-badge&logo=github&logoColor=white)
-![Stay Tuned](https://img.shields.io/badge/✨_Stay_Tuned_For_Updates-00e5ff?style=for-the-badge)
-![Launching Soon](https://img.shields.io/badge/🚀_Launching_Soon...-ffd700?style=for-the-badge)
+<p align="center">
+  <img src="https://svg-banners.vercel.app/api?type=glitch&text1=⚡+Spark+XMD+Under+Development+⚡&width=800&height=200" />
+</p>
+
+<p align="center">
+  <img src="https://svg-banners.vercel.app/api?type=rainbow&text1=✨+Stay+Tuned+For+Updates+✨&width=800&height=200" />
+</p>
+
+<p align="center">
+  <img src="https://svg-banners.vercel.app/api?type=shiny&text1=🚀+Launching+Soon...+🚀&width=800&height=200" />
+</p>
