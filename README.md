@@ -73,46 +73,6 @@ Send `.help` to see all available commands!
 </p>
 ---
 
-## 🛠️ **Installation Guide**
-
-### **Prerequisites**
-- Node.js (v16 or higher)
-- Git
-- A WhatsApp account
-
-### **Step-by-Step Installation**
-
-```bash
-# 1️⃣ Clone the repository
-git clone https://github.com/Thomas-shelby001/PEAKY-BLINDER-MD.git
-
-# 2️⃣ Navigate to project directory
-cd PEAKY-BLINDER-MD
-
-# 3️⃣ Install dependencies
-npm install
-
-# 4️⃣ Configure your settings
-cp config.sample.js config.js
-# Edit config.js with your settings
-
-# 5️⃣ Start the bot
-npm start
-```
-
-### **Alternative Installation Methods**
-
-<summary>🐳 Docker Installation</summary>
-
-```bash
-docker build -t peaky-blinder-md .
-docker run -d --name peaky-bot peaky-blinder-md
-```
-
-</details>
-
----
-
 ## 📖 **Usage Guide**
 
 1. **First Time Setup**: Run the bot and scan the QR code with WhatsApp
@@ -141,38 +101,6 @@ docker run -d --name peaky-bot peaky-blinder-md
 
 Edit `config.js` with your settings:
 
-```javascript
-module.exports = {
-    // Bot Settings
-    BOT_NAME: "PEAKY-BLINDER-MD",
-    PREFIX: ".",
-    
-    // Admin Settings
-    OWNER_NUMBER: "your-number-here",
-    ADMIN_NUMBERS: ["admin1", "admin2"],
-    
-    // Features
-    AUTO_REPLY: true,
-    AUTO_SAVE_CONTACTS: false,
-    ANTI_SPAM: true,
-    
-    // Media Settings
-    MAX_DOWNLOAD_SIZE: "100MB",
-    ALLOWED_FORMATS: ["mp3", "mp4", "jpg", "png"]
-};
-```
-
-### **Environment Variables**
-
-Create a `.env` file:
-
-```env
-DATABASE_URL=your-database-url
-API_KEY=your-api-key
-SESSION_ID=your-session-id
-```
-
----
 
 ## 🎯 **Complete Command List**
 
@@ -226,20 +154,6 @@ SESSION_ID=your-session-id
 
 ---
 
-## 🔧 **Advanced Features**
-
-### **Plugin System**
-Create custom plugins in the `plugins/` directory:
-
-```javascript
-module.exports = {
-    name: "myPlugin",
-    description: "My custom plugin",
-    execute: async (client, message, args) => {
-        // Your code here
-    }
-};
-```
 
 ### **Database Integration**
 Built-in support for:
