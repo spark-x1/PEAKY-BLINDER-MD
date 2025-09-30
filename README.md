@@ -2,7 +2,7 @@
 
 # 🔥 PEAKY-BLINDER-MD 🔥
 
-<img src="https://files.catbox.moe/018gb0.png" alt="PEAKY-BLINDER-MD" width="400" height="400">
+<img src="https://ibb.co/C3RDWK0d" alt="PEAKY-BLINDER-MD" width="400" height="400">
 
 ## ⚡ A Powerful Multi-Device WhatsApp Bot Made in Kenya 🇰🇪 ⚡
 
