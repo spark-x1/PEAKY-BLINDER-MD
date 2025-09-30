@@ -102,14 +102,6 @@ npm start
 
 ### **Alternative Installation Methods**
 
-<details>
-<summary>🚀 Deploy on Heroku</summary>
-
-[![Deploy to Heroku](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Thomas-shelby001/PEAKY-BLINDER-MD)
-
-</details>
-
-<details>
 <summary>🐳 Docker Installation</summary>
 
 ```bash
@@ -267,13 +259,7 @@ Built-in support for:
 ### 💡👑 Credits & Contributors
 
 > **PEAKY-BLINDER-MD Owner**
-- [Sang Lee](https://github.com/Thomas-shelby001) - **Creator & Maintainer**
-- Contributions include **bot plugins, command files, and script optimizations.**
-
-- [MALVIN KING](https://github.com/Xdking2). - **Large Contributor**
-
-
-     THANKS TO MALVIN KING 👑 👑 
+- [Sang Lee](https://github.com/Thomas-shelby001) 
 ---
 
 ### 🔥 Stay Connected
@@ -328,10 +314,21 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 <div align="center">
 
-### **Thomas Shelby** 🎩
+### **SANG LEE** 🎩
 *The Mastermind Behind PEAKY-BLINDER-MD*
 
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Thomas-shelby001)
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/254116266407)
+[![Telegram](https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/pugslycc)
+
+## 👨‍💻 **THANKS TO**
+
+<div align="center">
+
+### **MALVIN KING** 👑 
+*The Mastermind Behind PEAKY-BLINDER-MD*
+
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Xdking2)
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/your-number)
 [![Telegram](https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/your-username)
 
@@ -384,7 +381,7 @@ If you found PEAKY-BLINDER-MD helpful, consider:
 
 ---
 
-**© 2024 PEAKY-BLINDER-MD. All rights reserved.**
+**© 2026 PEAKY-BLINDER-MD. All rights reserved.**
 
 *In the bleak midwinter... we code.* ❄️
 
