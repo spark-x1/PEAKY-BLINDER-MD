@@ -6,7 +6,6 @@
 # 🔥 PEAKY-BLINDER-MD 🔥
 
 <a><img src='https://files.catbox.moe/dat1by.jpg'/></a>
-<img src="" alt="PEAKY-BLINDER-MD" width="400" height="400">
 
 ## ⚡ A Powerful Multi-Device WhatsApp Bot Made in Kenya 🇰🇪 ⚡
 
@@ -45,6 +44,33 @@
 
 Send `.help` to see all available commands!
 
+---
+
+### 🚀 Deploy PEAKY-BLINDER-MD 
+
+> **Deploy on Heroku**
+<p align="left">  
+<a href='https://dashboard.heroku.com/new?template=https://github.com/Thomas-shelby001/PEAKY-BLINDER-MD/tree/main' target="_blank"><img alt='Deploy on Heroku' src='https://img.shields.io/badge/Deploy%20on-Heroku-FF004D?style=for-the-badge&logo=heroku&logoColor=white'/></a>  
+</p>
+
+> **Deploy on Koyeb**
+<p align="left">  
+<a href='https://app.koyeb.com/services/deploy?type=git&repository=Thomas-shelby001/PEAKY-BLINDER-MD&ports=3000' target="_blank"><img alt='Deploy on Koyeb' src='https://img.shields.io/badge/Deploy%20on-Koyeb-FF009D?style=for-the-badge&logo=koyeb&logoColor=white'/></a>  
+</p>
+
+> **𝘿𝙚𝙥𝙡𝙤𝙮 𝙤𝙣 𝘽𝙤𝙩-𝙝𝙤𝙨𝙩𝙞𝙣𝙜 𝙣𝙚𝙩**
+<p align="left">  
+<a href='https://bot-hosting.net?type=git&repository=Thomas-shelby001/PEAKY-BLINDER-MD&ports=3000' target="_blank"><img alt='Deploy on bot hosting' src='https://img.shields.io/badge/Deploy%20on-bot hosting-FF009D?style=for-the-badge&logo=bot hosting&logoColor=white'/></a>  
+</p>
+
+---
+
+### 📥 Get! PEAKY-BLINDER-MD 
+
+> **Download the bot file**
+<p align="left">  
+<a href='https://github.com/XdKing2/MALVIN-XD/archive/refs/heads/main.zip' target="_blank"><img alt='Download Bot File' src='https://img.shields.io/badge/Download%20Bot-file-FF009D?style=for-the-badge&logo=github&logoColor=white'/></a>  
+</p>
 ---
 
 ## 🛠️ **Installation Guide**
@@ -237,6 +263,22 @@ Built-in support for:
 - News API
 - And many more!
 
+---
+### 💡👑 Credits & Contributors
+
+> **PEAKY-BLINDER-MD Owner**
+- [Sang Lee](https://github.com/Thomas-shelby001) - **Creator & Maintainer**
+- Contributions include **bot plugins, command files, and script optimizations.**
+
+- [MALVIN KING](https://github.com/Xdking2). - **Large Contributor**
+
+
+     THANKS TO MALVIN KING 👑 👑 
+---
+
+### 🔥 Stay Connected
+
+📢 **Join our [WhatsApp Channel](https://whatsapp.com/channel/0029VbAuEfj29754YgFtRf33)=** for updates!
 ---
 
 ## 🤝 **Contributing**
