@@ -1,7 +1,16 @@
 FROM node:lts-buster
-RUN git clone https://github.com/Thomas-shelby001/PEAKY-BLINDER-MD/root/iklee
-WORKDIR /root/iklee
-RUN npm install && npm install -g pm2 || yarn install --network-concurrency 1
+
+# Set working directory
+WORKDIR /app
+
+# Copy all local files to container
 COPY . .
-EXPOSE 9090
+
+# Install dependencies
+RUN npm install && npm install -g pm2
+
+# Expose the port your app listens on
+EXPOSE 7860
+
+# Start the app
 CMD ["npm", "start"]
