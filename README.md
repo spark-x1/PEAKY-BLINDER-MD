@@ -5,7 +5,8 @@
 
 # 🔥 PEAKY-BLINDER-MD 🔥
 
-<img src="https://ibb.co/C3RDWK0d" alt="PEAKY-BLINDER-MD" width="400" height="400">
+<a><img src='https://files.catbox.moe/dat1by.jpg'/></a>
+<img src="" alt="PEAKY-BLINDER-MD" width="400" height="400">
 
 ## ⚡ A Powerful Multi-Device WhatsApp Bot Made in Kenya 🇰🇪 ⚡
 
@@ -15,7 +16,7 @@
 [![GitHub forks](https://img.shields.io/github/forks/Thomas-shelby001/PEAKY-BLINDER-MD?style=for-the-badge&logo=github&color=blue)](https://github.com/Thomas-shelby001/PEAKY-BLINDER-MD/network)
 [![GitHub issues](https://img.shields.io/github/issues/Thomas-shelby001/PEAKY-BLINDER-MD?style=for-the-badge&logo=github&color=red)](https://github.com/Thomas-shelby001/PEAKY-BLINDER-MD/issues)
 [![GitHub license](https://img.shields.io/github/license/Thomas-shelby001/PEAKY-BLINDER-MD?style=for-the-badge&logo=github&color=green)](https://github.com/Thomas-shelby001/PEAKY-BLINDER-MD/blob/main/LICENSE)
-[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/your-bot-number)
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/254116266407)
 
 </div>
 
@@ -40,7 +41,7 @@
 
 ## 📱 **Quick Start Demo**
 
-> **🔥 Try it now:** [Click here to test PEAKY-BLINDER-MD](https://wa.me/your-bot-number)
+> **🔥 Try it now:** [Click here to test PEAKY-BLINDER-MD](https://wa.me/254116266407)
 
 Send `.help` to see all available commands!
 
