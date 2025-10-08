@@ -40,7 +40,7 @@
 
 ## 📱 **Quick Start Demo**
 
-> **🔥 Try it now:** [Click here to test PEAKY-BLINDER-MD](https://wa.me/254116266407)
+> **🔥 Try it now:** [Click here to test PEAKY-BLINDER-MD](https://wa.me/254778821373)
 
 Send `.help` to see all available commands!
 
@@ -60,7 +60,7 @@ Send `.help` to see all available commands!
 
 > **𝘿𝙚𝙥𝙡𝙤𝙮 𝙤𝙣 𝘽𝙤𝙩-𝙝𝙤𝙨𝙩𝙞𝙣𝙜 𝙣𝙚𝙩**
 <p align="left">  
-<a href='https://bot-hosting.net?type=git&repository=Thomas-shelby001/PEAKY-BLINDER-MD&ports=3000' target="_blank"><img alt='Deploy on bot hosting' src='https://img.shields.io/badge/Deploy%20on-bot hosting-FF009D?style=for-the-badge&logo=bot hosting&logoColor=white'/></a>  
+<a href='https://bot-hosting.net?type=git&repository=Thomas-shelby001/PEAKY-BLINDER-MD&ports=3000' target="_blank"><img alt='Deploy on bot hosting' src='https://img.shields.io/badge/Deploy%20on-bot hosting-FF009D?style=for-the-badge&logo=bot hosting&logoColor=blue'/></a>  
 </p>
 
 ---
