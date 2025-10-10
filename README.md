@@ -66,7 +66,7 @@ Send `.help` to see all available commands!
 
 
 > **Deploy on Render**
-align="left">
+<p align="left">  
 <a href="https://dashboard.render.com/web/new" target="_blank"><img src="https://img.shields.io/badge/Deploy%20to-Render-00C7A9?style=for-the-badge&logo=render&logoColor=white" alt="Render"/></a>
 
 
