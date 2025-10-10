@@ -65,11 +65,9 @@ Send `.help` to see all available commands!
 <a href="https://dashboard.katabump.com/auth/login#203630" target="_blank"><img src="https://img.shields.io/badge/Katabump-FF5722?style=for-the-badge&logo=codeberg&logoColor=white&labelColor=1a1a1a"/a> 
 
 
-  
+> **Deploy on Render**
 align="left">
-        <a href="https://dashboard.render.com/web/new" target="_blank">
-          <img src="https://img.shields.io/badge/Deploy%20to-Render-00C7A9?style=for-the-badge&logo=render&logoColor=white" alt="Render"/>
-        </a>
+<a href="https://dashboard.render.com/web/new" target="_blank"><img src="https://img.shields.io/badge/Deploy%20to-Render-00C7A9?style=for-the-badge&logo=render&logoColor=white" alt="Render"/></a>
 
 
 ### 📥 Get! PEAKY-BLINDER-MD 
