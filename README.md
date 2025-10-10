@@ -58,11 +58,23 @@ Send `.help` to see all available commands!
 <a href='https://app.koyeb.com/services/deploy?type=git&repository=Thomas-shelby001/PEAKY-BLINDER-MD&ports=3000' target="_blank"><img alt='Deploy on Koyeb' src='https://img.shields.io/badge/Deploy%20on-Koyeb-FF009D?style=for-the-badge&logo=koyeb&logoColor=white'/></a>  
 </p>
 
-> **𝘿𝙚𝙥𝙡𝙤𝙮 𝙤𝙣 𝘽𝙤𝙩-𝙝𝙤𝙨𝙩𝙞𝙣𝙜 𝙣𝙚𝙩**
-<p align="left">  
-<a href='https://bot-hosting.net?type=git&repository=Thomas-shelby001/PEAKY-BLINDER-MD&ports=3000' target="_blank"><img alt='Deploy on bot hosting' src='https://img.shields.io/badge/Deploy%20on-bot hosting-FF009D?style=for-the-badge&logo=bot hosting&logoColor=blue'/></a>  
-</p>
+> **Deploy to any panel of ur choice**
 
+<div align="center">
+  <table>
+    <tr>
+      <td>
+        <a href="https://bot-hosting.net/?aff=1097457675723341836" target="_blank">
+          <img src="https://img.shields.io/badge/BotHosting-8A2BE2?style=for-the-badge&logo=vercel&logoColor=white&labelColor=1a1a1a"/>
+        </a>
+      </td>
+      <td>
+        <a href="https://dashboard.katabump.com/auth/login#203630" target="_blank">
+          <img src="https://img.shields.io/badge/Katabump-FF5722?style=for-the-badge&logo=codeberg&logoColor=white&labelColor=1a1a1a"/>
+        </a>
+      </td>
+    </tr>
+    <tr>
 ---
 
 ### 📥 Get! PEAKY-BLINDER-MD 
