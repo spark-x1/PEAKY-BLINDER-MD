@@ -60,7 +60,7 @@ Send `.help` to see all available commands!
 
 > **Deploy to any panel of ur choice**
 
-<div align="center">
+<div align="left">
   <table>
     <tr>
       <td>
@@ -74,7 +74,7 @@ Send `.help` to see all available commands!
         </a>
       </td>
     </tr>
-    <tr>
+ <tr>
 ---
 
 ### 📥 Get! PEAKY-BLINDER-MD 
