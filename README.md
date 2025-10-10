@@ -62,7 +62,7 @@ Send `.help` to see all available commands!
 
 <p align="left">
 <a href="https://bot-hosting.net/?aff=1333843799511793717" target="_blank"><img src="https://img.shields.io/badge/BotHosting-8A2BE2?style=for-the-badge&logo=vercel&logoColor=white&labelColor=1a1a1a" /a>
-<a href="https://dashboard.katabump.com/auth/login#203630" target="_blank"><img src="https://img.shields.io/badge/Katabump-FF5722?style=for-the-badge&logo=codeberg&logoColor=white&labelColor=1a1a1a"/a> 
+<a href="https://dashboard.katabump.com/auth/login#5651c1" target="_blank"><img src="https://img.shields.io/badge/Katabump-FF5722?style=for-the-badge&logo=codeberg&logoColor=white&labelColor=1a1a1a"/a> 
 
 
 > **Deploy on Render**
