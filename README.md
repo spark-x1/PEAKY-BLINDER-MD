@@ -104,7 +104,7 @@ Send `.help` to see all available commands!
 
 ### **Basic Configuration**
 
-Edit `config.js` with your settings:
+Edit `settingss.js` with your settings:
 
 
 ## 🎯 **Complete Command List**
