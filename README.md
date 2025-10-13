@@ -18,24 +18,6 @@
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://whatsapp.com/channel/0029VbAuEfj29754YgFtRf33)
 
 </div>
-
----
-
-## 🚀 **Features That Make Us Legendary**
-
-- 🌐 **Multi-Device Support** - Seamlessly works across all devices
-- ⚡ **Lightning Fast** - Optimized for speed and performance  
-- 🎯 **Advanced Commands** - 100+ powerful commands at your disposal
-- 🛡️ **Admin Controls** - Complete administrative control system
-- 📱 **Auto Reply** - Smart automated response system
-- 🎵 **Media Support** - Download music, videos, and more
-- 🔒 **Secure** - Built with security and privacy in mind
-- 🌍 **Global Ready** - Works worldwide with multi-language support
-- 📊 **Analytics** - Track usage and performance metrics
-- 🔄 **Auto Updates** - Keeps itself updated with latest features
-- 💾 **Database Integration** - Persistent data storage
-- 🎨 **Customizable** - Highly configurable to your needs
-
 ---
 ### 🚀 Fork the Repository
 
