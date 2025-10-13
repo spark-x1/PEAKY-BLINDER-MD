@@ -71,12 +71,6 @@ Send `.help` to see all available commands!
 </p>
 ---
 
-## 📖 **Usage Guide**
-
-1. **First Time Setup**: Run the bot and scan the QR code with WhatsApp
-2. **Admin Setup**: Configure admin numbers in `config.js`
-3. **Start Using**: Send `.help` in any chat to see all commands
-
 ### **Basic Commands Overview**
 
 | Category | Command | Description |
