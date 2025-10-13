@@ -147,21 +147,6 @@ Edit `settingss.js` with your settings:
 ---
 
 
-### **Database Integration**
-Built-in support for:
-- MongoDB
-- PostgreSQL  
-- SQLite
-- MySQL
-
-### **API Integration**
-- YouTube API
-- Spotify API
-- Weather API
-- News API
-- And many more!
-
----
 ### 💡👑 Credits & Contributors
 
 > **PEAKY-BLINDER-MD Owner**
