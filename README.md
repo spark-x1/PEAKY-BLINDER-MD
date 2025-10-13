@@ -37,6 +37,15 @@
 - 🎨 **Customizable** - Highly configurable to your needs
 
 ---
+### 🚀 Fork the Repository
+
+<p align='center'>
+
+ [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=monospace-ExtraBold&color=blue&lines=𝗙𝗢𝗥𝗞+𝗔𝗡𝗗+𝗦𝗧𝗔𝗥+⭐+𝗥𝗘𝗣𝗢)](https://git.io/typing-svg)
+
+<a href="https://github.com/Thomas-shelby001/PEAKY-BLINDER-MD/fork"><img src="https://img.shields.io/github/forks/Thomas-shelby001/PEAKY-BLINDER-MD?style=for-the-badge&logo=github&color=4c1&label=Fork%20MALVIN-XD" alt="Fork PEAKY-BLINDER-MD" /></a>
+
+---
 
 ## 📱 **Quick Start Demo**
 
