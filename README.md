@@ -42,7 +42,7 @@ Send `.help` to see all available commands!
 
 <div align="center">
 
-[![Get Your Session ID](https://img.shields.io/badge/🚀_Access_Web_Portal-FF6B00?style=for-the-badge&logo=vercel&logoColor=white)](https://sesssion.onrender.com)
+[![Get Your Session ID](https://img.shields.io/badge/Get_Your_SessionID-FF6B00?style=for-the-badge&logo=vercel&logoColor=white)](https://sesssion.onrender.com)
 
 
 ---
