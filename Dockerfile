@@ -3,7 +3,6 @@ FROM node:lts-bullseye
 
 USER root
 
-Install ffmpeg, webp, git
 RUN apt-get update && \
     apt-get install -y ffmpeg webp git && \
     apt-get upgrade -y && \
@@ -23,5 +22,6 @@ ENV NODE_ENV=production
 
 Run the app
 CMD ["npm", "start"]
+
 
 
