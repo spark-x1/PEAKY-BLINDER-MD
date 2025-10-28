@@ -10,7 +10,6 @@ RUN apt-get update && \
 
 WORKDIR /app
 
-Copy all files from your project into the container
 COPY . .
 
 RUN npm install --legacy-peer-deps
@@ -22,6 +21,7 @@ ENV NODE_ENV=production
 
 Run the app
 CMD ["npm", "start"]
+
 
 
 
