@@ -14,15 +14,14 @@ WORKDIR /app
 Copy all files from your project into the container
 COPY . .
 
-Install npm dependencies
 RUN npm install --legacy-peer-deps
 
 Expose the port your app uses (change if needed)
 EXPOSE 7860
 
-Set environment variable
 ENV NODE_ENV=production
 
 Run the app
 CMD ["npm", "start"]
+
 
