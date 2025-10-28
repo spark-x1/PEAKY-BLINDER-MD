@@ -53,8 +53,8 @@
     
     "OWNER_NAME": {
       "description": "Enter your name here",
-      "value": "",
-      "required": true
+      "value": "Sang Lee",
+      "required": false
     }
   },
   "buildpacks": [
