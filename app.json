@@ -4,53 +4,42 @@
   "logo": "https://files.catbox.moe/7drn23.jpg",
   "keywords": ["PEAKY-BLINDER-MD"],
   "success_url": "/",
-
-    "stack": "container",
+  "stack": "heroku-24",
   "env": {
-      "SESSION_ID": {
-        "description": "Put your SESSION_ID here. Make sure it starts with PEAKY-BLINDER~",
-        "value":"",
-        "required": true
-        
+    "SESSION_ID": {
+      "description": "Put your SESSION_ID here. Make sure it starts with PEAKY-BLINDER~",
+      "value": "",
+      "required": true
     },
-      "BOT_NAME": {
-        "description": "write here your bot name.",
-        "required": true,
-        "value": "✦『 𝑷𝑬𝑨𝑲𝒀-𝑩𝑳𝑰𝑵𝑫𝑬𝑹-𝑴𝑫 V1』✦" 
-        
+    "BOT_NAME": {
+      "description": "write here your bot name.",
+      "required": true,
+      "value": "✦『 𝑷𝑬𝑨𝑲𝒀-𝑩𝑳𝑰𝑵𝑫𝑬𝑹-𝑴𝑫 V1』✦"
     },
-      "MODE": {
-        "description": "Bot mode can be public, private, inbox or groups in small letters (e.g, public)",
-        "value":"private",
-        "required": true  
-        
-   },
-     "DESCRIPTION": {
+    "MODE": {
+      "description": "Bot mode can be public, private, inbox or groups in small letters (e.g, public)",
+      "value": "private",
+      "required": true
+    },
+    "DESCRIPTION": {
       "description": "add caption for menu and other",
       "value": "*> © ᴘᴏᴡᴇʀᴇᴅ ʙʏ 𝙿𝙴𝙰𝙺𝚈-𝙱𝙻𝙸𝙽𝙳𝙴𝚁-𝙼𝙳 ❄️*",
       "required": true
-      
-   }, 
-
+    },
     "OWNER_NUMBER": {
       "description": "put the owner number for bot.",
-      "value": "254116266407"
+      "value": "254116266407",
       "required": true
-      
-   },
+    },
     "OWNER_NAME": {
       "description": "Enter your name here",
       "value": "",
       "required": true
     }
-
-},
-
-     "buildpacks": [
-        {
-            "url": "https://github.com/heroku/heroku-buildpack-nodejs.git"
-        }
-     ],
-  "stack": "heroku-24"
+  },
+  "buildpacks": [
+    {
+      "url": "https://github.com/heroku/heroku-buildpack-nodejs.git"
+    }
+  ]
 }
-  
