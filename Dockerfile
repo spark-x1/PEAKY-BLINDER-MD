@@ -1,17 +1,30 @@
+
+Use official Node.js LTS base image
 FROM node:lts-bullseye
+
+Set root user to install system packages
 USER root
 
+Install ffmpeg, webp, git
 RUN apt-get update && \
     apt-get install -y ffmpeg webp git && \
     apt-get upgrade -y && \
     rm -rf /var/lib/apt/lists/*
 
-USER node
-WORKDIR /home/node/n
-RUN chmod -R 777 /home/node/n/
-RUN yarn install --network-concurrency 1
+Set working directory inside the container
+WORKDIR /app
 
+Copy all files from your project into the container
+COPY . .
+
+Install npm dependencies
+RUN npm install --legacy-peer-deps
+
+Expose the port your app uses (change if needed)
 EXPOSE 7860
-ENV NODE_ENV=production
-CMD ["npm", "start"]
 
+Set environment variable
+ENV NODE_ENV=production
+
+Run the app
+CMD ["npm", "start"]
