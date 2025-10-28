@@ -1,8 +1,6 @@
 
-Use official Node.js LTS base image
 FROM node:lts-bullseye
 
-Set root user to install system packages
 USER root
 
 Install ffmpeg, webp, git
@@ -11,7 +9,6 @@ RUN apt-get update && \
     apt-get upgrade -y && \
     rm -rf /var/lib/apt/lists/*
 
-Set working directory inside the container
 WORKDIR /app
 
 Copy all files from your project into the container
@@ -28,3 +25,4 @@ ENV NODE_ENV=production
 
 Run the app
 CMD ["npm", "start"]
+
