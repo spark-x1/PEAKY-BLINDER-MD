@@ -15,13 +15,14 @@ COPY . .
 
 RUN npm install --legacy-peer-deps
 
-Expose 
+Expose port
 EXPOSE 7860
 
 ENV NODE_ENV=production
 
 Run the app
 CMD ["npm", "start"]
+
 
 
 
