@@ -19,8 +19,8 @@ EXPOSE 7860
 
 ENV NODE_ENV=production
 
-Run the app
 CMD ["npm", "start"]
+
 
 
 
