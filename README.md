@@ -31,12 +31,6 @@
 
 ---
 
-## 📱 **Quick Start Demo**
-
-> **🔥 Try it now:** [Click here to test PEAKY-BLINDER-MD](https://wa.me/254748257570)
-
-Send `.help` to see all available commands!
-
 ---
 ### 🌚 SESSION ID 👇👇
 
