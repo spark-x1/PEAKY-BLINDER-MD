@@ -1,7 +1,32 @@
-FROM node:lts-buster
-RUN git clone https://github.com/Thomas-shelby001/PEAKY-BLINDER-MD/root/iklee
-WORKDIR /root/iklee
-RUN npm install && npm install -g pm2 || yarn install --network-concurrency 1
+
+FROM node:lts-bullseye
+
+USER root
+
+RUN apt-get update && \
+    apt-get install -y ffmpeg webp git && \
+    apt-get upgrade -y && \
+    rm -rf /var/lib/apt/lists/*
+
+WORKDIR /app
+
 COPY . .
-EXPOSE 9090
+
+RUN npm install --legacy-peer-deps
+
+
+EXPOSE 7860
+
+ENV NODE_ENV=production
+
 CMD ["npm", "start"]
+
+
+
+
+
+
+
+
+
+
